@@ -1,1 +1,0 @@
-print(" w nigaa game ")
